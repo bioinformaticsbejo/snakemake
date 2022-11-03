@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.18.2](https://github.com/snakemake/snakemake/compare/v7.18.1...v7.18.2) (2022-11-03)
+
+
+### Bug Fixes
+
+* show input files on job error ([#1949](https://github.com/snakemake/snakemake/issues/1949)) ([ad21631](https://github.com/snakemake/snakemake/commit/ad2163187f031317d889e0cbe368176e1d48d13f))
+
 ## [7.18.1](https://github.com/snakemake/snakemake/compare/v7.18.0...v7.18.1) (2022-11-03)
 
 
